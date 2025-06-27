@@ -1,6 +1,6 @@
+<h1 align="center">Hola! Soy Armando Tejeda<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
-<h1 align="center">Gola! Soy Armando Tejeda<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+%F0%9F%92%BB;Learning+.+.+.;Coffe+%E2%98%95)](https://git.io/typing-svg)
 
 ## About Me
 
